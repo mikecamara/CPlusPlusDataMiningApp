@@ -1,0 +1,61 @@
+﻿***************************************
+************Evaluation*****************
+
+
+
+*********
+What work*********
+
+- Input is done in the client side
+
+- Algorithm outputting accurate result as proved in the test plan
+
+- Binary Search Tree and Map have relevant in the application
+
+- Main program is free of any processing, all calculations are done in weather file
+
+- All Files are loaded completely before user interaction
+
+- Eliminated duplicate using binary tree
+
+- Eliminated registers with zero wind speed
+
+- Eliminated registers with solar radiation lesser than 100
+
+
+
+****************************************
+*********What do not work***************
+
+- In some months we don’t have register for example 2014, March, in these cases at the moment I am 
+just print NAN, but I would like to in the future print something more meaninful such as a message 
+“No registers for this day”
+- I just run the code now 5 times, and it run  perfect, but in the very end of the project when I was cleaning up comments and unused code, 
+I think I ended up messing up with some counter that now sometimes when you first run a consult, sometimes maybe you could find the values don't match, 
+please just run a second time it this happen, I would love to fix this bug, seems like it is something silly, but I have to go to work in 2 hours, therefore,
+Unable to look after right now, it doesn't happen always, I hope you don't experience it, but if you do, please just run a second consult and it prompt
+the right results.
+
+*****************************************
+*******
+
+
+
+What could be better designed
+
+*****
+
+- Should bring back the output of the functions to the client domain, so they could handle as they want
+
+- I could have used more binary trees instead of vectors to store registers, so I would have to run lesser iterations, 
+developing a more efficient algorithm.
+ 
+- I could have divided my registers in different objects, so for example, instead of having one 
+Vector/Map storing all registers, I could have created different maps/vectors to store different months/years, 
+which would make a more efficient application.
+
+- In terms of future proof it would be required to transfer the output part of code to the client side, 
+to the main, so in case tha client decide to change the output format, it will not depend on the programmer.
+
+*****************************************
+*****************************************

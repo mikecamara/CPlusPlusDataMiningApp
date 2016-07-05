@@ -1,0 +1,10 @@
+<map id="Weather" name="Weather">
+<area shape="rect" id="node2" href="$classbinary_tree_type.html" title="binaryTreeType\&lt; Time \&gt;" alt="" coords="458,15,621,42"/>
+<area shape="rect" id="node3" href="$structbinary_tree_type_1_1node_type.html" title="struct for BST class " alt="" coords="189,59,368,100"/>
+<area shape="rect" id="node4" href="$classbinary_tree_type.html" title="binaryTreeType\&lt; Date \&gt;" alt="" coords="459,66,620,93"/>
+<area shape="rect" id="node9" href="$classbinary_tree_type.html" title="binaryTreeType\&lt; Metadata \&gt;" alt="" coords="445,117,633,143"/>
+<area shape="rect" id="node5" href="$class_vector.html" title="Vector\&lt; Metadata \&gt;" alt="" coords="470,218,609,245"/>
+<area shape="rect" id="node6" href="$class_metadata.html" title="Metadata class holds the data, time, Wind speed and solar radiation for a specific register..." alt="" coords="241,218,317,245"/>
+<area shape="rect" id="node7" href="$class_time.html" title="Time class holds the hour and minute for a specific register. " alt="" coords="5,190,56,217"/>
+<area shape="rect" id="node8" href="$class_date.html" title="Date class holds the day, month and year for a specific register. " alt="" coords="6,259,55,286"/>
+</map>

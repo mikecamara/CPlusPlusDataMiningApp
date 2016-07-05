@@ -1,0 +1,5 @@
+<map id="Weather::getSolarRadiationYearMonthDay" name="Weather::getSolarRadiationYearMonthDay">
+<area shape="rect" id="node2" href="$class_metadata.html#aa525af0aa1994f0b7db37f30dcb80037" title="function to get the date " alt="" coords="247,5,377,32"/>
+<area shape="rect" id="node3" href="$class_metadata.html#ad34657d5a7431e390c4328af86ae2478" title="function to get the solar radiation " alt="" coords="235,56,389,83"/>
+<area shape="rect" id="node4" href="$class_metadata.html#aedb0d432ddbdb814bfc2a192193c85c1" title="function to set the time " alt="" coords="247,107,377,133"/>
+</map>

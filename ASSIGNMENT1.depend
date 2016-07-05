@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1464916625 source:c:\users\32783992\desktop\assignment1\date.cpp
+	"date.h"
+	<string>
+	<stdlib.h>
+
+1464916627 c:\users\32783992\desktop\assignment1\date.h
+	<iostream>
+	<string>
+
+1464916657 source:c:\users\32783992\desktop\assignment1\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<stdlib.h>
+	"vector.h"
+	"date.h"
+	"time.h"
+	"metadata.h"
+	"weather.h"
+	"BinaryTree.h"
+
+1464916517 c:\users\32783992\desktop\assignment1\vector.h
+	<vector>
+	"metadata.h"
+
+1464916497 c:\users\32783992\desktop\assignment1\time.h
+	<iostream>
+	<string>
+
+1464916627 c:\users\32783992\desktop\assignment1\metadata.h
+	<iostream>
+	<string>
+	"date.h"
+	"time.h"
+	"BinaryTree.h"
+
+1464916675 source:c:\users\32783992\desktop\assignment1\metadata.cpp
+	<iostream>
+	"date.h"
+	"time.h"
+	"vector.h"
+	"metadata.h"
+	"BinaryTree.h"
+
+1464917010 source:c:\users\32783992\desktop\assignment1\time.cpp
+	"time.h"
+	<string>
+	<stdlib.h>
+
+1464916432 c:\users\32783992\desktop\assignment1\binarytree.h
+	<iostream>
+	<cstdlib>
+
+1464916572 c:\users\32783992\desktop\assignment1\weather.h
+	<iostream>
+	<string>
+	<sstream>
+	<map>
+	<fstream>
+	<stdlib.h>
+	"vector.h"
+	"date.h"
+	"time.h"
+	"metadata.h"
+	"BinaryTree.h"
+
+1464916735 source:c:\users\32783992\desktop\assignment1\weather.cpp
+	"weather.h"
+	"BinaryTree.h"
+

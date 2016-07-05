@@ -1,0 +1,10 @@
+<map id="operator&gt;&gt;" name="operator&gt;&gt;">
+<area shape="rect" id="node2" href="$class_metadata.html#ae8f6dc2dc9fe08041cf910c5c11057eb" title="set date " alt="" coords="170,5,299,32"/>
+<area shape="rect" id="node3" href="$class_metadata.html#aab6eb3977b8787a3a44e589f1eab21e7" title="set time " alt="" coords="169,56,300,83"/>
+<area shape="rect" id="node4" href="$class_metadata.html#ab47387de13382048dcec46bbab8841f1" title="set wind speed " alt="" coords="150,107,319,133"/>
+<area shape="rect" id="node5" href="$class_metadata.html#ac797c959eb0e91a8b46d05db2365787b" title="set solar rad " alt="" coords="157,157,312,184"/>
+<area shape="rect" id="node6" href="$classbinary_tree_type.html#ab69a211f41b36a3b2caf90be4d9fd8a9" title="Function to determine if searchItem is in the binary tree. " alt="" coords="156,208,313,235"/>
+<area shape="rect" id="node7" href="$classbinary_tree_type.html#a30609c7d991461431368a00f764b500f" title="Function to insert insertItem in the binary tree. " alt="" coords="159,259,310,285"/>
+<area shape="rect" id="node8" href="$class_weather.html#abf73dcd1ef8289d0c632c027fdc64a74" title="Adds one to a counter that counts all registers. " alt="" coords="167,309,302,336"/>
+<area shape="rect" id="node9" href="$class_weather.html#aa257107e57eb41298d15bcd2a9e400b7" title="Add a object of Metadata to a Vector and to a map. " alt="" coords="139,361,331,402"/>
+</map>
